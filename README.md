@@ -1,6 +1,6 @@
 Hi, I’m David with the username @davidf552  👋
 I’m interested in discovering and learning new technologies.
-👀 I’m currently learning how to be a Data Engineer.
+👀 I got my Data Engineer certification on October 2022.
 <!---
  💞️ I’m looking to collaborate on ...
 You can reach me on dhfreire20@gmail.com
