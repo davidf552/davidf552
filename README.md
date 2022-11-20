@@ -1,6 +1,16 @@
 Hi, I’m David with the username @davidf552  👋
+
+
 I’m interested in discovering and learning new technologies.
+
+
 👀 I got my Data Engineer certification on October 2022.
+
+
+I am currently developing some projects in order to gain more experience on data engineering. Some of them are:
+1. [ETL with Computer Vision](https://github.com/davidf552/ETL_computer_vision)
+2. [Data Engineering Capstone Project](https://github.com/davidf552/Data_Engineering_Capstone)
+
 <!---
  💞️ I’m looking to collaborate on ...
 You can reach me on dhfreire20@gmail.com
