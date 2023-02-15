@@ -10,6 +10,7 @@ I’m interested in discovering and learning new technologies.
 I am currently developing some projects in order to gain more experience on data engineering. Some of them are:
 1. [ETL with Computer Vision](https://github.com/davidf552/ETL_computer_vision)
 2. [Data Engineering Capstone Project](https://github.com/davidf552/Data_Engineering_Capstone)
+3. [ETL in dog attacks](https://github.com/davidf552/Dog_attacks_ETL)
 
 <!---
  💞️ I’m looking to collaborate on ...
